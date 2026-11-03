@@ -1,2 +1,2 @@
-# Clicky-Club
+# Clicks Club
 Club's Data Management.
